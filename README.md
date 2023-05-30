@@ -2,15 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
+Covid 19 Tracker using api 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230530-174238](https://github.com/smit11001/Covid19_tracker/assets/113500028/157da9b9-9321-47b3-9790-248fc8afbc3c)
